@@ -31,7 +31,7 @@
 #header.sidenav .nav li.active a,
 #header.sidenav .nav li:hover a,
 #header.normal .slicknav_nav a:hover{
-	color:#F2784B;
+	color:#fdfa45;
 }
 #header .nav li a::before,
 #header .logo a::before,
@@ -100,15 +100,15 @@
 #header .social,
 #call-action::before,
 .k-line{
-	background: #F2784B;
+	background: #cfcc16;
 }
 #header .nav li a::after,
 #portfolio .portfolio-nav ul li span::before,
 #clients.section{
-	border-top-color:#F2784B;
+	border-top-color:#cfcc16;
 }
 #blog .blog-head{
-	border-bottom-color:#F2784B
+	border-bottom-color:#cfcc16
 }
 #countdown .single-count:hover i:after,
 #countdown .single-count.active i:after,
