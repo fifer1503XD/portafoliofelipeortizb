@@ -83,12 +83,12 @@ ul li {
 	padding: 0 200px;
 }
 .section-title h1 {
-	font-size: 30px;
+	font-size: 35px;
 	margin-bottom: 20px;
 	padding-bottom: 20px;
 	position: relative;
 	display: inline-block;
-	color: #353535;
+	color: #139599;
 	text-transform: uppercase;
 }
 .section-title h1::before {

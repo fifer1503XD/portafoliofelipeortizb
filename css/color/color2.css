@@ -94,6 +94,9 @@
 #footer .arrow a,
 .section-title h1::before,
 .section-title h1 i,
+.section-title{
+	color: aqua;
+}
 #breadcrumbs .bread-list,
 #header .side-icon a,
 #header .social,
