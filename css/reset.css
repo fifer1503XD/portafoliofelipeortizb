@@ -324,7 +324,7 @@ input:-webkit-autofill:focus {
 	content: "/ ";
 	padding: 0px;
 }
-/* Meheraj CSS Animation*/
+
 @keyframes k-loadingP {
 	0% {
 		transform:translateY(0)

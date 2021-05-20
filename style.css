@@ -1,49 +1,4 @@
-/* =====================================
-Template Name: Meheraj
-Author Name: Shakil Hossain
-Description: Meheraj is a modern Creative Personal Portfolio Template, you can use this template for your own personal portfolio,CV,Resume purpouse.
-Version:	1.1
-========================================*/   
 
-/*=======================================
-[Table of contents]
-* Reset CSS
-* Header CSS
-	+ Logo
-	+ Main menu
-	+ Social
-	+ Header Extra
-* Personal CSS
-	+ Personal Animate
-	+ Personal Particle
-	+ Personal Slider
-	+ Personal Video Background
-* About Me CSS
-* Service CSS
-* portfolio CSS
-	+ Portfolio Latest
-	+ Portfolio Archive
-	+ Portfolio Single
-* CountDown CSS
-* Timeline CSS
-* Pricing Table CSS
-* Testimonials CSS
-* Blog CSS
-	+ Blog Latest
-	+ Blog Archive
-	+ Blog Sidebar
-	+ Blog Single
-* Call To Action CSS
-* Contact CSS
-* Clients CSS
-* Mail CSS
-* Footer Top CSS
-* Footer CSS
-=========================================*/ 
-
-/*=======================
-	Header CSS
-=========================*/ 
 #header {
 	top: 0;
 	width: 100%;
